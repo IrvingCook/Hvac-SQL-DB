@@ -3,5 +3,5 @@ It displays the contents of each entity and the relationships as well. It Is Com
 Comments for each entity and the information that belongs in them. NOTE: INFORMATION INSERTED IN THIS DATABASE IS NOT REAL!!!
 
 Contents of The Databse
-SQL File: Creaeting Database
+SQL File: Creating Database
 ER Diagram
